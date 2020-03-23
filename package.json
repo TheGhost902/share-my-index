@@ -1,6 +1,6 @@
 {
   "name": "share-my-index",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fast share index.html on localhost",
   "main": "index.js",
   "bin": {
