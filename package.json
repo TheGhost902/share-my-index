@@ -1,0 +1,23 @@
+{
+  "name": "share-my-index",
+  "version": "0.0.1",
+  "description": "fast share index.html on localhost",
+  "main": "index.js",
+  "bin": {
+    "share": "bin/main.js"
+  },
+  "keywords": [
+    "server",
+    "localhost",
+    "index",
+    "html"
+  ],
+  "author": "Emil Zhy <emilc902@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "open": "^7.0.3",
+    "ws": "^7.2.3"
+  }
+}
